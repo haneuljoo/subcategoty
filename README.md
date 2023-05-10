@@ -1,1 +1,1 @@
-# subcategoty
+# subcategory
